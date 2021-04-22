@@ -17,6 +17,9 @@ public class Kompis {
 
     public Kompis(){}
 
+    public Kompis(String name, String adress, String email, String phone) {
+    }
+
     public Long getId() {
         return id;
     }
